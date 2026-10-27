@@ -1,0 +1,18 @@
+ORIGINAL Instagram downloads for @tanhas.fashion
+===============================================
+
+These are the untouched, full-resolution photographs downloaded from the
+brand's own Instagram feed (912-1572 px), used as the source for every image
+on the website.
+
+  p01.jpg … p12.jpg    the 12 posts
+  instagram-profile-picture.jpg   the real profile picture (150x150 — the
+                                  largest size Instagram serves)
+
+p04.jpg is a still frame extracted from post 4, which is a video.
+
+This folder is NOT part of the website and is never referenced by it.
+Keep it if you want to re-crop or re-process images later; delete it if
+you don't.
+
+The website itself lives in the sibling folder:  tanhas-fashion/
